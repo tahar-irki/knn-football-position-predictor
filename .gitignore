@@ -7,7 +7,6 @@ venv/
 env/
 .venv/
 *.csv
-data/
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
