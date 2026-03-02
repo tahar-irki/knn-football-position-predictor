@@ -17,7 +17,7 @@ DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 # Download dataset
 # =========================
 tmp_path = kagglehub.dataset_download(
-    "furkanark/premier-league-2024-2025-data"
+    "meharshanali/student-dropout-prediction-dataset"
 )
 
 # =========================
