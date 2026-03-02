@@ -16,13 +16,8 @@ This repository explores real-world datasets to bridge the gap between:
 # 📂 Project Structure
 
 ```
-├── data/                         # Datasets (Raw and Cleaned)
-│   ├── dataPlCleaned.csv
-│   ├── dataPlCleaned4Cknn.csv
-│   ├── dataPlCleaned4Lknn.csv
-│   ├── earthquake_data_tsunami.csv
-│   ├── Squad_PlayerStats__stats_standard.csv
-│   └── student_dropout_dataset_v3.csv
+├── data/                         # Datasets 
+│ 
 │
 ├── src/                          # Algorithm implementations
 │   ├── knn/                      # K-Nearest Neighbors
